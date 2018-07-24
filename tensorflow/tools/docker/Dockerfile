@@ -11,8 +11,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         libpng12-dev \
         libzmq3-dev \
         pkg-config \
-        python \
-        python-dev \
+        python3.6 \
+        python3.6-dev \
         rsync \
         software-properties-common \
         unzip \
